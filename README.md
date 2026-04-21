@@ -101,3 +101,4 @@ chmod +x connect.sh
 - `oneconnect.py` — Implements the Clavister authentication protocol
 - `configauthxml.py` — XML configuration parser for Clavister's config-auth format
 - `.env.example` — Configuration template
+- `.gitignore` — Excludes `.env` and the Python virtual environment from version control
